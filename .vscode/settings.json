@@ -1,0 +1,8 @@
+{
+	"haskell.manageHLS": "GHCup",
+	"haskell.serverEnvironment": {
+		"PATH": "${HOME}/.ghcup/bin:$PATH"
+	}
+
+	
+}
